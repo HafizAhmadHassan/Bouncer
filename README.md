@@ -1,2 +1,3 @@
 # Bouncer
-This is mini Assignment of game named as Bouncer which is developed during Introduction of Computing Course
+
+A simple bouncing ball game written in C++ as a mini assignment for an introductory computing course.
